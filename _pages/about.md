@@ -27,18 +27,18 @@ I am currently a second-year Master's student at Shanghai Jiao Tong University, 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-(* indicates equal contribution)
+(\* indicates equal contribution)
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue"> Detection of Multiple Mental Disorders from Social Media with Two-Stream Psychiatric Experts
 </font>
-**Siyuan Chen\* **, Zhiling Zhang\*, Mengyue We, Kenny Q. Zhu \\
-**EMNLP, 2023** |  [PDF](https://aclanthology.org/2023.emnlp-main.562/) | [Code](https://github.com/chesiy/EMNLP23-PsyEx)
+**Siyuan Chen\***, Zhiling Zhang\*, Mengyue We, Kenny Q. Zhu \\
+**EMNLP, 2023** |  [PDF](https://aclanthology.org/2023.emnlp-main.562.pdf) | [Code](https://github.com/chesiy/EMNLP23-PsyEx)
 </div>
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue"> Symptom identification for interpretable detection of multiple mental disorders on social media
 </font>
 Zhiling Zhang\*, **Siyuan Chen\* **, Mengyue We, Kenny Q. Zhu \\
-**EMNLP, 2023** |  [PDF](https://aclanthology.org/2023.emnlp-main.562/) | [Code](https://github.com/chesiy/EMNLP23-PsyEx)
+**EMNLP, 2022** |  [PDF](https://aclanthology.org/2022.emnlp-main.677.pdf) | [Code](https://github.com/blmoistawinde/EMNLP22-PsySym)
 </div>
 
 
@@ -47,9 +47,9 @@ Zhiling Zhang\*, **Siyuan Chen\* **, Mengyue We, Kenny Q. Zhu \\
 - *2018.09 - 2022.06, B.S.@SJTU, Computer Science. 
 
 # 🎖 Honors and Awards
-- *2020.5* The Mathematical Contest in Modeling Meritorious Winner (top 6\%)
-- *2020.7* APAC Women Tech makers scholarship (Google)
-- *2022.6* Outstanding Graduates (Shanghai Jiao Tong University)
+- 2020.5 The Mathematical Contest in Modeling Meritorious Winner (top 6\%)
+- 2020.7 APAC Women Tech makers scholarship (Google)
+- 2022.6 Outstanding Graduates (Shanghai Jiao Tong University)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
