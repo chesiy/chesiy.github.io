@@ -16,9 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Hi👋 nice to meet you!
 
-I am currently a second-year Master's student at Shanghai Jiao Tong University, under the supervision of Prof. <a href=''>Mengyue Wu</a>, majoring in computer science. Before that, I received my B.S. degree in SJTU in 2022, majoring in computer science.
+Currently, I am a second-year Master's student at Shanghai Jiao Tong University, under the supervision of Prof. <a href='https://scholar.google.com/citations?user=9cvRM5wAAAAJ&hl=en'>Mengyue Wu</a> and <a href='https://scholar.google.com/citations?user=ZIRJ6lIAAAAJ&hl=en'>Kenny Q. Zhu</a>, majoring in computer science. Before that, I received my B.S. degree in SJTU in 2022, majoring in computer science. I used to work as a research intern at MiHoYo Inc. in the Lumi group.
 
+My primary research interest is the application of NLP in Mental Health Domain, including mental disorder detection on social media, and chatbot for psychiatric diagnosis or counseling. Currently, I'm also interested in the evaluation, SFT and alignment of Large Language Models(LLMs) for mental health domain.
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -31,25 +33,31 @@ I am currently a second-year Master's student at Shanghai Jiao Tong University, 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue"> Detection of Multiple Mental Disorders from Social Media with Two-Stream Psychiatric Experts
 </font>
-**Siyuan Chen\***, Zhiling Zhang\*, Mengyue We, Kenny Q. Zhu \\
+**Siyuan Chen\***, Zhiling Zhang\*, Mengyue Wu, Kenny Q. Zhu \\
 **EMNLP, 2023** |  [PDF](https://aclanthology.org/2023.emnlp-main.562.pdf) | [Code](https://github.com/chesiy/EMNLP23-PsyEx)
+</div>
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue"> LLM-empowered Chatbots for Psychiatrist and Patient Simulation: Application and Evaluation
+</font>
+**Siyuan Chen**, Mengyue Wu, Kenny Q. Zhu, Kunyao Lan, Zhiling Zhang, Lyuchun Cui \\
+**arxiv preprint, 2023** |  [PDF](https://arxiv.org/pdf/2305.13614.pdf) 
 </div>
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue"> Symptom identification for interpretable detection of multiple mental disorders on social media
 </font>
-Zhiling Zhang\*, **Siyuan Chen\***, Mengyue We, Kenny Q. Zhu \\
+Zhiling Zhang\*, **Siyuan Chen\***, Mengyue Wu, Kenny Q. Zhu \\
 **EMNLP, 2022** |  [PDF](https://aclanthology.org/2022.emnlp-main.677.pdf) | [Code](https://github.com/blmoistawinde/EMNLP22-PsySym)
 </div>
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue"> Psychiatric scale guided risky post screening for early detection of depression
 </font>
-Zhiling Zhang, **Siyuan Chen**, Mengyue We, Kenny Q. Zhu \\
+Zhiling Zhang, **Siyuan Chen**, Mengyue Wu, Kenny Q. Zhu \\
 **IJCAI, 2022** |  [PDF](https://www.ijcai.org/proceedings/2022/0725.pdf) | [Code](https://github.com/blmoistawinde/scale_early_depress_detect)
 </div>
 
 # 📖 Educations
-- 2022.09 - 2025.03 (expected), M.S.@SJTU, Computer Science & Engineering
-- 2018.09 - 2022.06, B.S.@SJTU, Computer Science. 
+- 2022.09 - 2025.03 (expected), M.S.@SJTU, Computer Science
+- 2018.09 - 2022.06, B.S.@SJTU, Computer Science
 
 # 🎖 Honors and Awards
 - 2020.5 The Mathematical Contest in Modeling Meritorious Winner (top 6%)
