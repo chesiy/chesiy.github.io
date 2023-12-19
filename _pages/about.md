@@ -60,9 +60,10 @@ Zhiling Zhang, **Siyuan Chen**, Mengyue Wu, Kenny Q. Zhu \\
 - 2018.09 - 2022.06, B.S.@SJTU, Computer Science
 
 # 🎖 Honors and Awards
-- 2020.5 The Mathematical Contest in Modeling Meritorious Winner (top 6%)
-- 2020.7 APAC Women Tech makers scholarship (Google)
 - 2022.6 Outstanding Graduates (Shanghai Jiao Tong University)
+- 2019-2021 SJTU Zhiyuan Honors Scholarship (top 5%)
+- 2020.7 APAC Women Tech makers scholarship (Google)
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
