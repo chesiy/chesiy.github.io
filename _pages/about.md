@@ -40,14 +40,19 @@ I am currently a second-year Master's student at Shanghai Jiao Tong University, 
 Zhiling Zhang\*, **Siyuan Chen\***, Mengyue We, Kenny Q. Zhu \\
 **EMNLP, 2022** |  [PDF](https://aclanthology.org/2022.emnlp-main.677.pdf) | [Code](https://github.com/blmoistawinde/EMNLP22-PsySym)
 </div>
-
+<div class='paper-box-text' markdown="1">
+<font color="CornFlowerBlue"> Psychiatric scale guided risky post screening for early detection of depression
+</font>
+Zhiling Zhang, **Siyuan Chen**, Mengyue We, Kenny Q. Zhu \\
+**IJCAI, 2022** |  [PDF](https://www.ijcai.org/proceedings/2022/0725.pdf) | [Code](https://github.com/blmoistawinde/scale_early_depress_detect)
+</div>
 
 # 📖 Educations
 - 2022.09 - 2025.03 (expected), M.S.@SJTU, Computer Science & Engineering
 - 2018.09 - 2022.06, B.S.@SJTU, Computer Science. 
 
 # 🎖 Honors and Awards
-- 2020.5 The Mathematical Contest in Modeling Meritorious Winner (top 6\%)
+- 2020.5 The Mathematical Contest in Modeling Meritorious Winner (top 6%)
 - 2020.7 APAC Women Tech makers scholarship (Google)
 - 2022.6 Outstanding Graduates (Shanghai Jiao Tong University)
 
