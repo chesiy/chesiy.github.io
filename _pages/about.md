@@ -18,9 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi👋 nice to meet you!
 
-Currently, I am a second-year Master's student at Shanghai Jiao Tong University, under the supervision of Prof. <a href='https://scholar.google.com/citations?user=9cvRM5wAAAAJ&hl=en'>Mengyue Wu</a> and <a href='https://scholar.google.com/citations?user=ZIRJ6lIAAAAJ&hl=en'>Kenny Q. Zhu</a>, majoring in computer science. Before that, I received my B.S. degree in SJTU in 2022, majoring in computer science. I used to work as a research intern at MiHoYo Inc. in the Lumi group.
+Currently, I am a second-year Master's student at Shanghai Jiao Tong University, under the supervision of Prof. <a href='https://scholar.google.com/citations?user=9cvRM5wAAAAJ&hl=en'>Mengyue Wu</a> and <a href='https://scholar.google.com/citations?user=ZIRJ6lIAAAAJ&hl=en'>Kenny Q. Zhu</a>, majoring in computer science. Before that, I received my B.S. degree in SJTU in 2022, majoring in computer science. 
+<!-- I used to work as a research intern at MiHoYo Inc. in the Lumi group. -->
 
-My primary research interest is the application of NLP in Mental Health Domain, including mental disorder detection on social media, and chatbot for psychiatric diagnosis or counseling. Currently, I'm also interested in the evaluation, SFT and alignment of Large Language Models(LLMs).
+My primary research interest is the application of NLP in Mental Health Domain, including mental disorder detection on social media, and chatbot for psychiatric diagnosis or counseling. Currently, I'm also interested in the evaluation and alignment of Large Language Models(LLMs).
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
