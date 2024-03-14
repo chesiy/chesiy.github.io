@@ -34,8 +34,7 @@ My primary research interest is the application of NLP in Mental Health Domain, 
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue"> Mapping Long-term Causalities in Psychiatric Symptomatology and Life Events from Social Media
 </font>
-**Siyuan Chen, Meilin Wang, Minghao Lv, Zhiling Zhang, Qianqian Ju, Dejiyangla, Yujia Peng, Kenny Q. Zhu, Mengyue Wu \\
-**NAACL, 2024**
+**Siyuan Chen**, Meilin Wang, Minghao Lv, Zhiling Zhang, Qianqian Ju, Dejiyangla, Yujia Peng, Kenny Q. Zhu, Mengyue Wu  **NAACL, 2024**\\
 </div>
 <div class='paper-box-text' markdown="1">
 <font color="CornFlowerBlue"> Detection of Multiple Mental Disorders from Social Media with Two-Stream Psychiatric Experts
